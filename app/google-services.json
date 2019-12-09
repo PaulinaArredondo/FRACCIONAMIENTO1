@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545045038252",
+    "firebase_url": "https://fb-db-fraccionamiento.firebaseio.com",
+    "project_id": "fb-db-fraccionamiento",
+    "storage_bucket": "fb-db-fraccionamiento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545045038252:android:a7815223c0c2414913cb09",
+        "android_client_info": {
+          "package_name": "com.example.fraccionamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545045038252-pt3qqo2hqq59i38dosoeausi1cmagvhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fraccionamiento",
+            "certificate_hash": "a00fb7ea72364e1cc720536c492af315414a4538"
+          }
+        },
+        {
+          "client_id": "545045038252-u44vs0l2t04cr9i41ehjbdbct0ctrl7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY4di9-GuW8SjZvjDVJqAWxGAdilg42vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545045038252-u44vs0l2t04cr9i41ehjbdbct0ctrl7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

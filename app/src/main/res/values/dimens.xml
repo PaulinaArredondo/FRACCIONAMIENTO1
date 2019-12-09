@@ -1,0 +1,102 @@
+<resources>
+
+    <!-- Title -->
+
+    <!-- Fab -->
+
+    <!-- CardView -->
+
+    <!-- General -->
+
+    <!-- Collapsing Toolbar -->
+
+    <!-- Buttons -->
+
+    <!-- Font size -->
+
+    <!-- CircleImageView -->
+
+
+    <!-- Forums -->
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="collapsing_title_padding_end">64dp</dimen>
+    <dimen name="text_sub_title_size">18sp</dimen>
+
+    <dimen name="header_bar_elevation">4dp</dimen>
+    <dimen name="avatar_size">40dp</dimen>
+
+    <!-- Title -->
+    <dimen name="size_title">24sp</dimen>
+
+    <!-- Fab -->
+    <dimen name="size_fab">56dp</dimen>
+
+    <!-- CardView -->
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="footer_font_size">12sp</dimen>
+    <dimen name="star_size">20dp</dimen>
+    <dimen name="image_account_size">35dp</dimen>
+
+    <dimen name="star_padding">3dp</dimen>
+
+    <!-- General -->
+    <dimen name="margin_components">8dp</dimen>
+    <dimen name="padding_components">8dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_footer">45dp</dimen>
+
+    <!-- Collapsing Toolbar -->
+    <dimen name="collapsing_title_padding_start">48dp</dimen>
+
+    <dimen name="game_buttons_padding_start">56dp</dimen>
+    <dimen name="game_buttons_padding_end">56dp</dimen>
+    <dimen name="game_buttons_padding_top">56dp</dimen>
+    <dimen name="game_buttons_padding_bottom">56dp</dimen>
+
+    <!-- Buttons -->
+    <dimen name="radio_button">2dp</dimen>
+    <dimen name="margin_button">4dp</dimen>
+
+    <!-- Font size -->
+    <dimen name="font_size_game">18sp</dimen>
+    <dimen name="font_size_game_description">16sp</dimen>
+
+    <!-- CircleImageView -->
+    <dimen name="circle_image_size">56dp</dimen>
+
+
+    <!-- Forums -->
+    <dimen name="forum_button_size">240dp</dimen>
+    <dimen name="padding_fields">8dp</dimen>
+
+
+    <dimen name="font_title_size">34sp</dimen>
+    <dimen name="text_regular_size">16sp</dimen>
+    <dimen name="text_header_size">14sp</dimen>
+
+    <dimen name="padding_small_elements">5dp</dimen>
+
+    <dimen name="profile_image_size">150dp</dimen>
+    <dimen name="profile_image_anchor">100dp</dimen>
+    <dimen name="max_width_tab">400dp</dimen>
+
+    <dimen name="logo_width_size">250dp</dimen>
+    <dimen name="logo_height_size">180dp</dimen>
+    <dimen name="spinner_size">80dp</dimen>
+
+    <dimen name="img_header_size">75dp</dimen>
+    <dimen name="padding_standard">37dp</dimen>
+    <dimen name="user_image">35dp</dimen>
+
+    <dimen name="floating_button">56dp</dimen>
+
+</resources>

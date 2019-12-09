@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".Activities.Admin.AddNewUserActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/refill_data"
+        android:fontFamily="@font/rubik_regular"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="15dp"/>
+
+
+    <EditText
+        android:id="@+id/txtAddName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name_span"
+        android:fontFamily="@font/rubik_light"
+        android:inputType="text"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:id="@+id/txtAddLastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_name_spn"
+        android:layout_marginBottom="15dp"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/txtAddEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email_spn"
+        android:layout_marginBottom="15dp"
+        android:inputType="textEmailAddress"/>
+
+    <EditText
+        android:id="@+id/txtAddPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:layout_marginBottom="15dp"
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:id="@+id/txtAddConfirmPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password_confirm"
+        android:layout_marginBottom="15dp"
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:id="@+id/txtAddInfoUserMaintenance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/monthly_maintenance_cost"
+        android:layout_marginBottom="15dp"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/txtAddInfoUserRent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/rent_cost_month"
+        android:layout_marginBottom="15dp"
+        android:inputType="number"/>
+    <EditText
+        android:id="@+id/txtAddPaymentDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/arrived_day"
+        android:layout_marginBottom="15dp"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/txtBuild"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/build"
+        android:layout_marginBottom="15dp"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/txtDepartment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/department"
+        android:layout_marginBottom="15dp"
+        android:inputType="number"/>
+
+
+
+        <Button
+            android:id="@+id/btnAddUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_radius"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/rubik_medium"
+            android:text="@string/add_new_user"
+            android:layout_gravity="center_horizontal"
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_marginEnd="10dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            />
+
+</LinearLayout>
+</androidx.core.widget.NestedScrollView>
